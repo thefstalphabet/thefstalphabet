@@ -2,6 +2,8 @@
 
 ### 😎 I'm Akash, a third year student at TIET, Jabalpur. I'm a Programmer and a Passionate Graphic designer.
 
+
+
 ### Mission
 
 My dream is to make this world a better place unless I die.
@@ -13,5 +15,3 @@ My dream is to make this world a better place unless I die.
 • linkedin = www.linkedin.com/in/akash-patel-97b89b19b
 
 • instagram =  www.instagram.com/the.fst.alphabet
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thefstalphabet&langs_count=8)](https://github.com/thefstalphabet/github-readme-stats)
