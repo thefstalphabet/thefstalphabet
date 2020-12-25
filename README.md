@@ -1,4 +1,8 @@
-### I'm Akash, a third year student at Takshila institute of engineering and technology, Jabalpur. I'm a Programmer and a Passionate Graphic designer.
+### I'm Akash, a third year student at TIET, Jabalpur. I'm a Programmer and a Passionate Graphic designer.
+
+### Mission
+
+My dream is to make this world a better place unless I die.
 
 ### get in touch
 
