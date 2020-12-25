@@ -1,4 +1,4 @@
-### Hi there 👋
+### I'm Akash, a third year student at Takshila institute of engineering and technology, Jabalpur. I'm a Programmer and a Passionate Graphic designer.
 
 <!--
 **thefstalphabet/thefstalphabet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
