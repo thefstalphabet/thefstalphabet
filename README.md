@@ -1,5 +1,9 @@
 ### I'm Akash, a third year student at Takshila institute of engineering and technology, Jabalpur. I'm a Programmer and a Passionate Graphic designer.
 
+### get in touch
+• Twitter = www.twitter.com/thefstalphabet
+• linkedin = www.linkedin.com/in/akash-patel-97b89b19b
+• instagram =  www.instagram.com/thefstalphabet
 <!--
 **thefstalphabet/thefstalphabet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
