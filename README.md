@@ -14,4 +14,4 @@ My dream is to make this world a better place unless I die.
 
 • linkedin = www.linkedin.com/in/akash-patel-97b89b19b
 
-• instagram =  www.instagram.com/the.fst.alphabet
+• Instagram =  www.instagram.com/the.fst.alphabet
