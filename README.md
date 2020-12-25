@@ -3,7 +3,7 @@
 ### get in touch
 • Twitter = www.twitter.com/thefstalphabet
 • linkedin = www.linkedin.com/in/akash-patel-97b89b19b
-• instagram =  www.instagram.com/thefstalphabet
+• instagram =  www.instagram.com/the.fst.alphabet
 <!--
 **thefstalphabet/thefstalphabet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
