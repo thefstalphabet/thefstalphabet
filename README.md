@@ -12,7 +12,7 @@ My dream is to make this world a better place unless I die.
 
 • instagram =  www.instagram.com/the.fst.alphabet
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thefstalphabet)](https://github.com/thefstalphabet/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thefstalphabet&hide=javascript,html)](https://github.com/thefstalphabet/github-readme-stats)
 
 <!--
 **thefstalphabet/thefstalphabet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
