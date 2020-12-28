@@ -8,7 +8,7 @@
 
 My dream is to make this world a better place unless I die.
 
-### get in touch
+### Get in touch
 
 • Twitter = www.twitter.com/thefstalphabet
 
