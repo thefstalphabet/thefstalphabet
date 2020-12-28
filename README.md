@@ -1,6 +1,6 @@
 
 
-### 😎 I'm Akash, a third year student at TIET, Jabalpur. I'm a Programmer and a Passionate Graphic designer.
+### I'm Akash, a third year student at TIET, Jabalpur. I'm a Programmer and a Passionate Graphic designer.
 
 
 
