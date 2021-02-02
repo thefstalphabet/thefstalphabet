@@ -12,6 +12,6 @@ My dream is to make this world a better place unless I die.
 
 • Twitter = www.twitter.com/thefstalphabet
 
-• linkedin = www.linkedin.com/in/akash-patel-97b89b19b
+• linkedin = www.linkedin.com/in/thefstalphabet
 
-• Instagram =  www.instagram.com/the.fst.alphabet
+• Instagram =  www.instagram.com/thefstalphabet
