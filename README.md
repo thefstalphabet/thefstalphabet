@@ -4,8 +4,13 @@
 ### Get in touch
 
 • Twitter = www.twitter.com/thefstalphabet
+
 • linkedin = www.linkedin.com/in/thefstalphabet
+
 • Instagram =  www.instagram.com/thefstalphabet
 
 ![Akash GitHub stats](https://github-readme-stats.vercel.app/api?username=thefstalphabet&show_icons=true)
+
+![Akash GitHub stats](https://github-readme-stats.vercel.app/api?username=thefstalphabet&show_icons=true&theme=radical)
+
 
