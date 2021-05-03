@@ -1,12 +1,5 @@
 
-
-### I'm Akash, a third year student at TIET, Jabalpur. I'm a Programmer and a Passionate Graphic designer.
-
-
-
-### Mission
-
-My dream is to make this world a better place unless I die.
+### I'm Akash, a third year student at University Institute of Techonology, RGPV. I'm a Programmer and a Passionate Graphic designer.
 
 ### Get in touch
 
