@@ -11,8 +11,6 @@
 
 
 ![Akash GitHub stats](https://github-readme-stats.vercel.app/api?username=thefstalphabet&show_icons=true)
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thefstalphabet&layout=compact)](https://github.com/thefstalphabet/github-readme-stats)
 
 
