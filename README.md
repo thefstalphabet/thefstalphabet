@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [http://thefstalphabet.github.io/portfolio](http://thefstalphabet.github.io/portfolio)
 
-- 💬 Ask me about **Ask me anything my inbox is always open for you**
+- 💬 Ask me about **anything my inbox is always open for you**
 
 - 📫 How to reach me **akashpatel10000@gmail.com**
 
