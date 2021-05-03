@@ -9,8 +9,12 @@
 
 • Instagram =  www.instagram.com/thefstalphabet
 
+
 ![Akash GitHub stats](https://github-readme-stats.vercel.app/api?username=thefstalphabet&show_icons=true)
 
-![Akash GitHub stats](https://github-readme-stats.vercel.app/api?username=thefstalphabet&show_icons=true&theme=radical)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thefstalphabet&repo=github-readme-stats)](https://github.com/thefstalphabet/github-readme-stats)
+
+
 
 
