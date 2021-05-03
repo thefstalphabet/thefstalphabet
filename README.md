@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/thefstalphabet" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/thefstalphabet/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="thefstalphabet" height="30" width="40" /></a>
+<i class="fab fa-twitter"></i>
 
 
 <h3 align="left">Languages and Tools:</h3>
