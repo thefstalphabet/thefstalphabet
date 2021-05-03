@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/thefstalphabet" target="blank">
-<i class="fab fa-twitter"></i>
+  <i class="fab fa-twitter"></i></a>
 
 
 <h3 align="left">Languages and Tools:</h3>
