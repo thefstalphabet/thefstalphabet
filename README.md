@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/thefstalphabet" target="blank"><img src="https://img.shields.io/twitter/follow/thefstalphabet?logo=twitter&style=for-the-badge" alt="thefstalphabet" /></a> </p>
 
-- 🔭 I’m currently working on [Hospitant]https://github.com/thefstalphabet/hospitant-prototype
+- 🔭 I’m currently working on Hospitant
 
 - 🌱 I’m currently learning **Data structure and algorithms**
 
