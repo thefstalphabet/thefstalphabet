@@ -15,8 +15,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://codepen.io/thefstalphabet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="thefstalphabet" height="30" width="40" /></a>
 <a href="https://twitter.com/thefstalphabet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thefstalphabet" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/thefstalphabet" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="https://codeforces.com/profile/thefstalphabet" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/thefstalphabet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thefstalphabet" height="30" width="40" /></a>
+<a href="https://instagram.com/man.engineerr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="man.engineerr" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/thefstalphabet" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="thefstalphabet" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/thefstalphabet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="thefstalphabet" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/thefstalphabet" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="thefstalphabet" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/thefstalphabet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="thefstalphabet" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -27,4 +33,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thefstalphabet&show_icons=true&locale=en" alt="thefstalphabet" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thefstalphabet&" alt="thefstalphabet" /></p>
-
