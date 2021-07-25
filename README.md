@@ -13,6 +13,11 @@
 <!-- little bio about me -->
 <p align="center">I'm Akash a third year undergrad at Takshashila Institute of Engineering and Technology Jabalpur. I'm a Coding Enthusiast, Currently Working on my Dream to be a Software Developer Engineer. Specialization in Web development and Problem Solving.</p>
 
+<!-- some frequently asked questions -->
+- 📚 I’m currently learning **Web development**
+- 💬 Ask me about **any thing my inbox is always open for you**
+- 📫 How to reach me **akashpatel10000@gmail.com**
+
 <!-- matrics -->
 ![GitHub metrics](https://metrics.lecoq.io/thefstalphabet)  
 <!-- strick stats -->
