@@ -1,7 +1,7 @@
 
 <!-- Main headlines -->
-<h1 align="center">Hi there 👋, I'm Akash</h1>
-<h2 align="center">A coding enthusiast</h2>
+<h1 align="center">Hi There 👋, I'm Akash</h1>
+<h2 align="center">A Coding Enthusiast</h2>
 
 <!-- profile viwes -->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=thefstalphabet&label=Profile%20views&color=0e75b6&style=flat" alt="thefstalphabet" /> </p>
@@ -12,7 +12,7 @@
 ![banner](https://user-images.githubusercontent.com/69709410/130318774-bf7f0b95-a53f-4dc6-a659-e9225c8387b8.png)
 
 <!-- little bio about me -->
-<p align="center">I'm Akash a third year undergrad at Takshashila Institute of Engineering and Technology Jabalpur. I'm a Coding Enthusiast, Currently Working on my Dream to be a Software Developer Engineer. Specialization in Web development and Problem Solving.</p>
+<p align="center">I'm Akash a final year undergrad at Takshashila Institute of Engineering and Technology Jabalpur. I'm a Coding Enthusiast, Currently Working on my Dream to be a Software Developer Engineer. Specialization in Web development and Problem Solving.</p>
 
 <!-- some frequently asked questions -->
 - 📚 I’m currently learning **Web development**
