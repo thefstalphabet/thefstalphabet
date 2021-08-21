@@ -1,3 +1,4 @@
+
 <!-- Main headlines -->
 <h1 align="center">Hi there 👋, I'm Akash</h1>
 <h2 align="center">A coding enthusiast</h2>
@@ -8,7 +9,7 @@
 <p align="center"> <a href="https://twitter.com/thefstalphabet" target="blank"><img src="https://img.shields.io/twitter/follow/thefstalphabet?logo=twitter&style=for-the-badge" alt="thefstalphabet" /></a> </p>
 
 <!-- banner -->
-![I am GitHub Readme Generator's creator](https://media-exp1.licdn.com/dms/image/C5616AQFlDV2_bC80dg/profile-displaybackgroundimage-shrink_350_1400/0/1626072727992?e=1632960000&v=beta&t=f2a65QxgG0DbskTjMdI5nBPtGyVzj70FCTEZtPPBRbk)
+![banner](https://user-images.githubusercontent.com/69709410/130318774-bf7f0b95-a53f-4dc6-a659-e9225c8387b8.png)
 
 <!-- little bio about me -->
 <p align="center">I'm Akash a third year undergrad at Takshashila Institute of Engineering and Technology Jabalpur. I'm a Coding Enthusiast, Currently Working on my Dream to be a Software Developer Engineer. Specialization in Web development and Problem Solving.</p>
