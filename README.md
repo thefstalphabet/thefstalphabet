@@ -8,7 +8,7 @@
 <p align="center"> <a href="https://twitter.com/thefstalphabet" target="blank"><img src="https://img.shields.io/twitter/follow/thefstalphabet?logo=twitter&style=for-the-badge" alt="thefstalphabet" /></a> </p>
 
 <!-- banner -->
-![Cover](https://user-images.githubusercontent.com/69709410/134876629-c6cf622c-ea46-42e4-b0c6-4b94a82a9b04.jpg)
+![Cover1](https://user-images.githubusercontent.com/69709410/134877690-bd61e432-c7e8-4d79-8be7-5b551b7b4720.jpg)
 
 <!-- little bio about me -->
 <p align="center">I'm Akash a final year undergrad at Takshashila Institute of Engineering and Technology Jabalpur. I'm a Coding Enthusiast, Currently Working on my Dream to be a Software Developer Engineer. Specialization in Web development and Problem Solving.</p>
