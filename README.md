@@ -1,3 +1,4 @@
+![Cover](https://user-images.githubusercontent.com/69709410/134876629-c6cf622c-ea46-42e4-b0c6-4b94a82a9b04.jpg)
 
 <!-- Main headlines -->
 <h1 align="center">Hi There 👋, I'm Akash</h1>
@@ -9,7 +10,8 @@
 <p align="center"> <a href="https://twitter.com/thefstalphabet" target="blank"><img src="https://img.shields.io/twitter/follow/thefstalphabet?logo=twitter&style=for-the-badge" alt="thefstalphabet" /></a> </p>
 
 <!-- banner -->
-![banner](https://user-images.githubusercontent.com/69709410/130318774-bf7f0b95-a53f-4dc6-a659-e9225c8387b8.png)
+<!-- ![banner](https://user-images.githubusercontent.com/69709410/130318774-bf7f0b95-a53f-4dc6-a659-e9225c8387b8.png) -->
+![GitHub Logo](/images/Cover.png)
 
 <!-- little bio about me -->
 <p align="center">I'm Akash a final year undergrad at Takshashila Institute of Engineering and Technology Jabalpur. I'm a Coding Enthusiast, Currently Working on my Dream to be a Software Developer Engineer. Specialization in Web development and Problem Solving.</p>
