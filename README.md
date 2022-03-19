@@ -7,9 +7,9 @@ My name is Akash, doing my bachelor's in Technology from Takshila Institute of E
 
 ![thefstalphabet's GitHub stats](https://github-readme-stats.vercel.app/api?username=thefstalphabet&show_icons=true&theme=radical)
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=thefstalphabet) 
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=thefstalphabet&theme=radical) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thefstalphabet&layout=compact)](https://github.com/thefstalphabet/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thefstalphabet&layout=compact&theme=radical)](https://github.com/thefstalphabet/github-readme-stats)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=thefstalphabet)
 
