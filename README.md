@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thefstalphabet&label=Profile%20views&color=0e75b6&style=flat" alt="thefstalphabet" /> </p>
 
-I'm Akash, Completed my bachelor's in Technology from Takshila Institute of Engineering & Technology jabalpur. My specialization is in Computer Science. I've a deep interest in web development and I have worked on various projects using the MERN stack apart from that I'm currently working at TIKAJ as a SDE-1, and always open to contributing to a great project that impacts the world.
+A Skilled Full-stack Developer with over 3 years of experience and expertise in React.js, Next.js, Node.js, Javascript, and typescript. Passionate about creating robust and efficient code to solve complex problems. Looking for new opportunities to apply my skills and learn from experienced professionals in the field.
 
 ![thefstalphabet's GitHub stats](https://github-readme-stats.vercel.app/api?username=thefstalphabet&show_icons=true&theme=radical)
 
